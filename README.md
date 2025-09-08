@@ -3,7 +3,7 @@
 ## Alunos  
 | Matrícula | Nome |  
 |-----------------------|---------------------|  
-| 21/1061583 | Daniel Rodrigue da Rocha |  
+| 21/1061583 | Daniel Rodrigues da Rocha |  
 | 21/1061618 | Davi Rodrigues da Rocha  |  
 
 ## Descrição do Projeto

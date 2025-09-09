@@ -88,6 +88,10 @@ Busca_LeetCodeD1D2/
     └── 4_MedianOfTwoSortedArrays.js
 ```
 
+## Gravação da Reunião
+
+Link da gravação: [https://youtu.be/-W5H2rxZvcg?si=r-qQP_YZuqWlkQ6Z](https://youtu.be/-W5H2rxZvcg?si=r-qQP_YZuqWlkQ6Z)
+
 ## Referências
 
 1. **LeetCode Platform** - [https://leetcode.com/](https://leetcode.com/)
